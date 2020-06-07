@@ -9,20 +9,6 @@
             "version": "3.2.2"
         },
         {
-            "cachedName": "Minecraft",
-            "cachedRequires": [
-                {
-                    "equals": "3.2.2",
-                    "suggests": "3.2.2",
-                    "uid": "org.lwjgl3"
-                }
-            ],
-            "cachedVersion": "1.15.2",
-            "important": true,
-            "uid": "net.minecraft",
-            "version": "1.15.2"
-        },
-        {
             "cachedName": "Intermediary Mappings",
             "cachedRequires": [
                 {
@@ -46,6 +32,20 @@
             "cachedVersion": "0.8.7+build.201",
             "uid": "net.fabricmc.fabric-loader",
             "version": "0.8.7+build.201"
+        },
+        {
+            "cachedName": "Minecraft",
+            "cachedRequires": [
+                {
+                    "equals": "3.2.2",
+                    "suggests": "3.2.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "cachedVersion": "1.15.2",
+            "important": true,
+            "uid": "net.minecraft",
+            "version": "1.15.2"
         },
         {
             "cachedName": "Forge",
